@@ -7,8 +7,7 @@ the next part is to determine the pixel coordinates and creating a 4-pixel wide 
 which is also covered in this project,
 finally handpicking the prominence oscillation from the XT map and fitting it to a damped harmonic oscillation is done,
 the final result is the period, damping time and amplitude determination for a LAL prominence oscillation,
-# I thank Prof. Vaibhav Pant (ARIES) and his group member Upasna Baweja (ARIES) for helping me throughout the project
-# and clearing my doubts
+# I thank Prof. Vaibhav Pant (ARIES) and his group member Upasna Baweja (ARIES) for helping me throughout the project and clearing my doubts
 for comments, suggestions and clarity regarding the code contact at the following email address,
 # panchajanyad@iisc.ac.in
 many parts of this code are written in such a way that if the code is stopped in between and then run again, it will start from exactly where it has stopped,
