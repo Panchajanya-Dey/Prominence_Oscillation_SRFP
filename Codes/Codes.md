@@ -9,4 +9,4 @@ the final result is the period, damping time and amplitude determination for a L
 I thank Prof. Vaibhav Pant (ARIES) and his group member Upasna Baweja (ARIES) for helping me throughout the project
 and clearing my doubts
 for comments, suggestions and clarity regarding the code contact at the following email address
-# panchajanyad@iisc.ac.in
+### panchajanyad@iisc.ac.in
