@@ -1,4 +1,4 @@
-# Prominence_Oscillation_SRFP
+#### Prominence_Oscillation_SRFP
 These codes are developed by Panchajanya Dey, Indian Institute of Science, Bangalore,
 as a part of the SRFP project prominence oscillation in solar corona funded by Indian Academy of Science (2023),
 this folder contains the codes are for downloading the necessary fits files, modifying them by multi-gaussian image processing,
